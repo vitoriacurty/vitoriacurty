@@ -2,7 +2,7 @@
 
 
 #### ⚡ Full-Stack Software Engineer with 1 year of experience in the area of tecnology, developing projects using technologies such as JavaScript, HTML, CSS, Git, SonarQube and knowledge in agile scrum and kanban methodology.
-#### 🧠 I have a logistics degree and i'm vegetarin 🌱.
+#### 🧠 I have a logistics degree and i'm vegetarian 🌱.
 #### 📚 I’m currently studying Analysis and Systems Development and Full-Stack Software Engineer.
 #### 💬 I speak Portuguese and English.
 
