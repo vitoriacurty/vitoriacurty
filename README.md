@@ -1,16 +1,18 @@
 # Hi 👋, I'm Vitória Curty
 
 
-#### ⚡ Full-Stack Software Engineer with 2 years of experience in the area of tecnology, developing projects using technologies such as JavaScript, HTML, CSS, Git, SonarQube and knowledge in agile scrum and kanban methodology.
+#### ⚡ Full-Stack Software Engineer with 2 years of experience in the area of tecnology, developing projects using technologies such as JavaScript, HTML, CSS, Git and knowledge in agile scrum and kanban methodology.
 #### 🧠 I have a logistics degree and i'm vegetarian 🌱.
 #### 📚 I’m currently studying Analysis and Systems Development and Full-Stack Software Engineer.
 #### 💬 I speak Portuguese and English.
 
-<div>
-  
+### Where to find me:
+<div align="center"> 
+
+<a href = "mailto:vitoriavclima@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/curtyvitoria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+ </div>
+ 
 
 ### Technologies I'm working with:
 <div align="center">
@@ -25,6 +27,6 @@
   <img alt="postgres" src="https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465">
    <img alt="typescript" src="https://camo.githubusercontent.com/ee71fcc1aa3d059265517741dffc4161922fd744377e7a5f07c43381d0aa9aac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465">
    <img alt="prisma" src="https://camo.githubusercontent.com/fd75ec52ca1707ab6cc176248dd53e0002d4bbc528e964612fe434f8bf9e3ec4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507269736d612d3339383243453f7374796c653d666f722d7468652d6261646765266c6f676f3d507269736d61266c6f676f436f6c6f723d7768697465">
-   <img alt="nestJs" src="https://camo.githubusercontent.com/8855980a487f9e31426fbfc2cbbfdda5aa3b7f1d390e262e652e639e911b3d87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d2532334530323334452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465">
     <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
+   <img alt="linux" src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b">
 </div>  
